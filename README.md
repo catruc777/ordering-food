@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Food Ordering Project
 
-![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/272ac072-0702-4c83-9a79-a09a2eb43b4c)
+![image](public/images/258644727-f0e0ed7a-ead1-4070-abb9-f72bb2e5e7f9.png)
 
 Hello,
 
@@ -37,19 +37,19 @@ In addition to the core features taught by the course instructors, I added some 
 
 ## Project Screenshot
 
-![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/f0e0ed7a-ead1-4070-abb9-f72bb2e5e7f9)
+![image](public/images/258644727-f0e0ed7a-ead1-4070-abb9-f72bb2e5e7f9.png)
 
-![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/26da9d2a-53da-4689-a56f-be224b682bc1)
+![image](public/images/258644793-26da9d2a-53da-4689-a56f-be224b682bc1.png)
 
-![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/2a57c58c-ee7a-4bac-aedd-cc1e45ecf071)
+![image](public/images/258644811-2a57c58c-ee7a-4bac-aedd-cc1e45ecf071.png)
 
-![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/8fef5351-16cc-44fb-8f83-307575aecfd8)
+![image](public/images/258644831-8fef5351-16cc-44fb-8f83-307575aecfd8.png)
 
-![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/35bb7f17-4e1f-474c-9e4c-c00e98529b22)
+![image](public/images/258644859-42f3646f-6b5f-472d-90b1-42937fd102cf.png)
 
-![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/cbdcc75b-bfce-4d91-aea2-fd66abe41c5d)
+![image](public/images/258644988-cbdcc75b-bfce-4d91-aea2-fd66abe41c5d.png)
 
-![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/5f884bea-0035-4da0-925f-acb4ca5b6610)
+![image](public/images/258645037-35bb7f17-4e1f-474c-9e4c-c00e98529b22.png)
 
 ## Acknowledgments
 
