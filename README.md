@@ -45,8 +45,6 @@ In addition to the core features taught by the course instructors, I added some 
 
 ![image](public/images/258644831-8fef5351-16cc-44fb-8f83-307575aecfd8.png)
 
-![image](public/images/258644859-42f3646f-6b5f-472d-90b1-42937fd102cf.png)
-
 ![image](public/images/258644988-cbdcc75b-bfce-4d91-aea2-fd66abe41c5d.png)
 
 ![image](public/images/258645037-35bb7f17-4e1f-474c-9e4c-c00e98529b22.png)
